@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
-"""Convert an HTTP url to the SSH equivalent and clone the repo.
-
-https://github.com/emacs-lsp/lsp-python.git
-git@github.com:emacs-lsp/lsp-python.git
-
-"""
+"""Convert an HTTP url to the SSH equivalent and clone the repo."""
 
 import sys
 import subprocess
